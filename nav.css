@@ -7,6 +7,7 @@
 }
 html{
     scroll-behavior: smooth;
+    top:80px;	
 }
 body {
     margin: 0;
