@@ -110,8 +110,4 @@ iframe[seamless]{
     position: absolute;
     transition: 0.5s;
 }
-.preview-desktop {
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+
