@@ -104,12 +104,6 @@ iframe[seamless]{
     .logo{
         display: none;
     }
-    spam{
-        display: none;
-    }
-    .icon ul li a{
-        padding: 10px 35px;
-    }
 }
 .preview-frame {
     border: 0;
